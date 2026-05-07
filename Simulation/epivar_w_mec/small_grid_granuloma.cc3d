@@ -1,0 +1,5 @@
+<Simulation version="4.5.0">
+   <XMLScript Type="XMLScript">Simulation/small_grid_granuloma.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/small_grid_granuloma.py</PythonScript>
+   <Resource Type="Python">Simulation/small_grid_granulomaSteppables.py</Resource>
+</Simulation>
