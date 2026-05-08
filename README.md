@@ -25,6 +25,12 @@ Simulates the baseline dynamics of granuloma progression based purely on structu
 * **Parameter Tested:** Extent of macrophage epithelization adjusted via the surface parameter (15, 16.5, and 18).
 * **Objective:** To observe the isolated effect of epithelization on the formation and structural progression of the granuloma.
 
+### `No_killingTcell`
+**Simulations with T cells without cytotoxic capacity**  
+Simulates the T cell effectiveness in the simulation. 
+* **Parameters Tested:** Cytotoxic capacity of T cells set to 0
+* **Objective:** To evaluate the importance of T cells in elimiation of infected macrophagse and its effect on granuloma dynamics
+
 ### `midepi_w_inh`
 **Mid-Epithelization (parameter) with Isoniazid (INH)**  
 Simulates the physical barriers to drug efficacy.
