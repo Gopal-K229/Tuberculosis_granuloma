@@ -40,7 +40,7 @@ Simulates active, combination pharmacological intervention and its effect on str
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 To execute the simulations, navigate to the desired directory in your terminal and run the execution script. For example:
 
